@@ -1,5 +1,7 @@
 # Kognai citizen app: design system and clickable prototype
 
+[![CI](https://github.com/landingen24h/kognai-citizen-app/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/kognai-citizen-app/actions/workflows/ci.yml)
+
 Mobile first design system and static prototype for the Kognai citizen app: first run, lobby, chat with your citizen, services (learn, create, earn), credits and wallet, settings. Light and dark, English and Arabic (right to left). Static HTML and CSS, no build step, no dependencies.
 
 ## Layout
